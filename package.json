@@ -1,5 +1,5 @@
 {
-  "name": "map-object",
+  "name": "@pinyin/map-object",
   "version": "0.0.1",
   "description": "Recursively map over object keys",
   "main": "dist/index.js",

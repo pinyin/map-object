@@ -1,0 +1,1 @@
+{"version":3,"file":"JSONObject.d.ts","sourceRoot":"","sources":["../../src/JSONObject.ts"],"names":[],"mappings":"AAAA,oBAAY,UAAU,GAClB,MAAM,GAAG,MAAM,GAAG,OAAO,GACzB;IAAE,CAAC,IAAI,EAAE,MAAM,GAAG,UAAU,CAAA;CAAE,GAC9B,SAAS,CAAA;AAEb,MAAM,WAAW,SAAU,SAAQ,aAAa,CAAC,UAAU,CAAC;CAAG"}
